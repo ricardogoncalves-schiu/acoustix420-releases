@@ -1,0 +1,11 @@
+{
+    "versionCode":  58,
+    "versionName":  "1.7.06",
+    "apk":  "AcoustiX420.apk",
+    "sha256":  "8dbe8ca1612c182860d864b75d527dc8cbf481e1c2eb990dc8e111d8cfedbe00",
+    "tamanho":  49381257,
+    "publicada":  "2026-11-18 12:37:02 UTC",
+    "canal":  "geral",
+    "testada_desde":  "2026-11-18 12:31:43 UTC",
+    "notas":  "Ao vivo: blocos de 125 ms já não vão para o segundo errado; aviso de atraso no ecrã Medir (inclui as correções da 1.7.05)"
+}
