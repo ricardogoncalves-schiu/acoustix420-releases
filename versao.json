@@ -1,0 +1,11 @@
+{
+    "versionCode":  62,
+    "versionName":  "1.7.10",
+    "apk":  "AcoustiX420.apk",
+    "sha256":  "48f4bdc4e30ef21446090a3f0280c89a903434811e61ae9c300d89b039d4f641",
+    "tamanho":  49397637,
+    "publicada":  "2026-11-26 10:03:12 UTC",
+    "canal":  "geral",
+    "testada_desde":  "2026-11-26 09:12:29 UTC",
+    "notas":  "Resultados finais sempre do cartão: só se exporta/partilha depois de «Ler cartão»; fases da leitura no ecrã Medir; espera pela descarga; .zip sem _antes_do_cartao"
+}

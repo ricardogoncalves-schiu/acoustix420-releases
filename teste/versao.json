@@ -1,0 +1,10 @@
+{
+    "versionCode":  64,
+    "versionName":  "1.7.12",
+    "apk":  "AcoustiX420.apk",
+    "sha256":  "ae3b298ade46de33cdb62c847c493fdc852b56b0156860723426122909deed20",
+    "tamanho":  49414061,
+    "publicada":  "2026-11-27 11:47:24 UTC",
+    "canal":  "teste",
+    "notas":  "Relatório em Excel novo no lugar do anotado: folhas Resumo, Eventos, Passagens (um veículo por linha, com o LAmax), 125 ms e Eventos (detalhe). Correções na leitura do cartão e na atualização (1.7.11)."
+}
